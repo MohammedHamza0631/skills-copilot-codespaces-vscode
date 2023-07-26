@@ -1,4 +1,4 @@
-// Create a Web Server
+// Create Web Server
 
 // 1. Import the express library
 const express = require('express');
